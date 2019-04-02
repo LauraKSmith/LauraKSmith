@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Cabin';
+  font-family: 'Lato';
 }
 
 h1,
@@ -15,7 +15,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Cabin';
+  font-family: 'Lato';
 }
 
 hr.star-light,
