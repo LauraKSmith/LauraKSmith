@@ -35,7 +35,3 @@ a:focus, a:hover, a:active {
 .footer {
   background-color: rgba(154, 17, 23, 0.9);
 }
-
-.text-secondary {
-  color: black !important;
-}
