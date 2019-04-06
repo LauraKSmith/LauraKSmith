@@ -50,3 +50,7 @@ a:focus, a:hover, a:active {
 .text-secondary {
   color: black !important;
 }
+
+.masthead .fa{
+  font-size: 12px;
+}
