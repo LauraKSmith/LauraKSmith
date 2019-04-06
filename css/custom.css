@@ -50,8 +50,3 @@ a:focus, a:hover, a:active {
 .text-secondary {
   color: black !important;
 }
-
-.masthead i{
-  height: 40px;
-  width: 40px;
-}
