@@ -25,26 +25,26 @@ a:focus, a:hover, a:active {
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
-  background-color: rgba(154, 17, 23, 0.9);
+  background-color: rgba(92, 109, 152, 0.9);
 }
 
 .bg-secondary {
-  background-color: rgba(154, 17, 23, 0.9) !important;
-  border-color: rgba(154, 17, 23, 0.9) !important;
+  background-color: rgba(92, 109, 152, 0.9) !important;
+  border-color: rgba(92, 109, 152, 0.9) !important;
 }
 
 .footer {
-  background-color: rgba(154, 17, 23, 0.9);
+  background-color: rgba(92, 109, 152, 0.9);
 }
 
 .btn-primary {
-  background-color: rgba(154, 17, 23, 0.9) !important;
-  border-color: rgba(154, 17, 23, 0.9) !important;
+  background-color: rgba(92, 109, 152, 0.9) !important;
+  border-color: rgba(92, 109, 152, 0.9) !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: rgba(121, 2, 7, 0.9) !important;
-  border-color: rgba(121, 2, 7, 0.9) !important;
+  background-color: rgba(46, 60, 98, 0.9) !important;
+  border-color: rgba(46, 60, 98, 0.9) !important;
 }
 
 .text-secondary {
