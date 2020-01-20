@@ -8,12 +8,12 @@ a:focus, a:hover, a:active {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
   color: #fff;
-  background: rgba(63, 71, 92, 0.9);
+  background: rgba(16, 19, 20, 0.9);
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
   color: #fff;
-  background: rgba(63, 71, 92, 0.9);
+  background: rgba(16, 19, 20, 0.9);
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
@@ -25,21 +25,21 @@ a:focus, a:hover, a:active {
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
-  background-color: rgba(90, 121, 148, 0.9);
+  background-color: rgba(144, 175, 19790, 121, 148, 0.9);
 }
 
 .bg-secondary {
-  background-color: rgba(90, 121, 148, 0.9) !important;
-  border-color: rgba(90, 121, 148, 0.9) !important;
+  background-color: rgba(144, 175, 197, 0.9) !important;
+  border-color: rgba(144, 175, 197, 0.9) !important;
 }
 
 .footer {
-  background-color: rgba(90, 121, 148, 0.9);
+  background-color: rgba(144, 175, 197, 0.9);
 }
 
 .btn-primary {
-  background-color: rgba(90, 121, 148, 0.9) !important;
-  border-color: rgba(90, 121, 148, 0.9) !important;
+  background-color: rgba(144, 175, 197, 0.9) !important;
+  border-color: rgba(144, 175, 197, 0.9) !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -48,5 +48,5 @@ a:focus, a:hover, a:active {
 }
 
 .text-secondary {
-  color: rgba(63, 71, 92, 0.9) !important;
+  color: rgba(16, 19, 2063, 71, 92, 0.9) !important;
 }
