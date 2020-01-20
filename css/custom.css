@@ -25,21 +25,21 @@ a:focus, a:hover, a:active {
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
-  background-color: rgba(122, 164, 202, 0.9);
+  background-color: rgba(90, 121, 148, 0.9);
 }
 
 .bg-secondary {
-  background-color: rgba(122, 164, 202, 0.9) !important;
-  border-color: rgba(122, 164, 202, 0.9) !important;
+  background-color: rgba(90, 121, 148, 0.9) !important;
+  border-color: rgba(90, 121, 148, 0.9) !important;
 }
 
 .footer {
-  background-color: rgba(122, 164, 202, 0.9);
+  background-color: rgba(90, 121, 148, 0.9);
 }
 
 .btn-primary {
-  background-color: rgba(122, 164, 202, 0.9) !important;
-  border-color: rgba(122, 164, 202, 0.9) !important;
+  background-color: rgba(90, 121, 148, 0.9) !important;
+  border-color: rgba(90, 121, 148, 0.9) !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
