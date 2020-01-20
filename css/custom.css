@@ -1,5 +1,5 @@
 .bg-primary {
-  background-color: rgba(63, 71, 92, 0.9) !important;
+  background-color: rgba(16, 19, 20, 0.9) !important;
 }
 
 a:focus, a:hover, a:active {
@@ -48,5 +48,5 @@ a:focus, a:hover, a:active {
 }
 
 .text-secondary {
-  color: rgba(16, 19, 2063, 71, 92, 0.9) !important;
+  color: rgba(16, 19, 20, 0.9) !important;
 }
